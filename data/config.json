@@ -1,0 +1,46 @@
+{
+    "database":[
+        {
+            "name": "numDataBase",
+            "title": "数值数据集",
+            "icon": "ios-navigate",
+            "children":[
+                {
+                    "name": "numDataBase1-1",
+                    "title": "任务1"
+                },
+                {
+                    "name": "numDataBase1-2",
+                    "title": "任务2"
+                }
+            ]
+        },
+        {
+            "name": "imgDataBase",
+            "title": "图像数据集",
+            "icon": "ios-keypad",
+            "children":[
+                {
+                    "name": "imgDataBase1-1",
+                    "title": "目标检测"
+                },
+                {
+                    "name": "imgDataBase1-2",
+                    "title": "目标分类"
+                }
+            ]
+        },
+        {
+            "name": "others",
+            "title": "其他数据集",
+            "icon": "ios-analytics",
+            "children":[
+                {
+                    "name": "",
+                    "title": "待补充"
+                }
+            ]
+        }
+    ],
+    "modelbase":1
+}
